@@ -3,7 +3,7 @@
 
 ---
 
-<img align="right" alt="AI Dev" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+<img align="right" alt="AI Dev" width="400" src="https://raw.githubusercontent.com/mangesh1309/mangesh1309/main/img.gif" />
 
 🔭 I’m currently working on:  
 - 🤖 RAG-based LLM Powered Chatbots using LangChain 
