@@ -18,10 +18,11 @@
 - ✅ OOP, DBMS, DSA
 
 📫 Reach me at:  
-- 📧 Email: **mangeshsalunke1309@gmail.com**  
-- 💼 LinkedIn: [linkedin.com/mangeshsalunke](https://www.linkedin.com/in/mangeshsalunke/)  
-- 💻 GitHub: [github.com/mangesh1309](https://github.com/mangesh1309)
-- 📝 Medium: [medium.com/@mangeshsalunke1309](https://medium.com/@mangeshsalunke1309)
+- <img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/20/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-filled-tal-revivo.png" /> LeetCode: [leetcode.com/u/mangesh13](https://leetcode.com/u/mangesh13/)
+- <img src="https://img.icons8.com/color/20/linkedin.png" /> LinkedIn: [linkedin.com/in/mangeshsalunke](https://linkedin.com/in/mangeshsalunke)  
+- <img src="https://img.icons8.com/material-rounded/20/github.png" /> GitHub: [github.com/mangesh1309](https://github.com/mangesh1309)  
+- <img src="https://img.icons8.com/ios-filled/20/medium-logo.png" /> Medium: [medium.com/@mangeshsalunke1309](https://medium.com/@mangeshsalunke1309)
+- <img src="https://img.icons8.com/fluency/20/gmail.png" /> Email: [mangeshsalunke1309@gmail.com](mailto:mangeshsalunke1309@gmail.com)    
 
 ---
 
