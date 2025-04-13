@@ -3,12 +3,12 @@
 
 ---
 
-<img align="right" alt="AI Dev" width="400" src="https://raw.githubusercontent.com/mangesh1309/mangesh1309/main/img.gif" />
-
 🔭 I’m currently working on:  
 - 🤖 RAG-based LLM Powered Chatbots using LangChain 
-- 🛠️ Building intelligent applications using Aritifical Intelligence
+- 🛠️ Building intelligent applications using AI
 - ✍️ Technical Blog with 500+ views and reads every month
+
+<img align="right" alt="AI Dev" width="400" src="https://raw.githubusercontent.com/mangesh1309/mangesh1309/main/img.gif" />
 
 💬 Ask me about:  
 - 🧠 Machine Learning algorithms  
@@ -22,7 +22,8 @@
 - <img src="https://img.icons8.com/color/20/linkedin.png" /> LinkedIn: [linkedin.com/in/mangeshsalunke](https://linkedin.com/in/mangeshsalunke)  
 - <img src="https://img.icons8.com/material-rounded/20/github.png" /> GitHub: [github.com/mangesh1309](https://github.com/mangesh1309)  
 - <img src="https://img.icons8.com/ios-filled/20/medium-logo.png" /> Medium: [medium.com/@mangeshsalunke1309](https://medium.com/@mangeshsalunke1309)
-- <img src="https://img.icons8.com/fluency/20/gmail.png" /> Email: [mangeshsalunke1309@gmail.com](mailto:mangeshsalunke1309@gmail.com)    
+- <img src="https://img.icons8.com/fluency/20/gmail.png" /> Email: [mangeshsalunke1309@gmail.com](mailto:mangeshsalunke1309@gmail.com)
+
 
 ---
 
