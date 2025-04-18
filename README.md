@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mangesh Salunke</h1>
+<h1 align="center">Hi, I'm Mangesh Salunke</h1>
 <h3 align="center">AI | ML | Data Science | Deep Learning | Computer Vision | Generative AI</h3>
 
 ---
@@ -57,7 +57,7 @@
 
 ### 📌 Featured Projects:
 
-- 🎥 [**Video Query using Generative AI**](https://github.com/mangesh1309/Gemini-LLM-and-Astra-DB-to-chat-with-YouTube-video) 
+- 🎥 [**Video Query using Generative AI**](https://github.com/mangesh1309/Gemini-LLM-and-Astra-DB-to-chat-with-YouTube-video) <br>
   Developed a **Generative AI system** to query on the YouTube video. The system processes YouTube video URLs to extract and convert the text into vector embeddings using the Gemini LLM. Used **AstraDB** to store vector embeddings. Developed a user-friendly interface leveraging the **Python library Streamlit**.
 
 - 📘 [**Question Bank & PDF Query System**](https://github.com/mangesh1309/EduQuery)  
