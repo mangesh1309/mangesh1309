@@ -6,7 +6,7 @@
 🔭 I’m currently working on:  
 - 🤖 RAG-based LLM Powered Chatbots using LangChain 
 - 🛠️ Building intelligent applications using AI
-- ✍️ Technical Blog with 500+ views and reads every month
+- ✍️ Technical Blog with 1.5K+ views and reads every month
 
 <img align="right" alt="AI Dev" width="400" src="https://raw.githubusercontent.com/mangesh1309/mangesh1309/main/img.gif" />
 
